@@ -18,9 +18,9 @@
 ## Launch
 
 - How To Run This Project:
-  - Visit this link to view a current live and responsive version of the site.
+  - Visit the link below to view a current live and responsive version of the site.
   - Open it in any browser on your phone to view responsiveness.
-    [a link](https://a0074.is3.aws.cis.byuh.edu/kaipoIT240/Final-Project-Implementation/)
+  - [Kuleana Coral Reefs Hawaii Website Clone](https://a0074.is3.aws.cis.byuh.edu/kaipoIT240/Final-Project-Implementation/)
 
 ## Features
 
