@@ -1,0 +1,20 @@
+:root{--text-color:rgb(232, 232, 232);--dark-text-color:#3e3d36;--bg-color-white:#f8f8f4;--header-bg-color:rgb(248, 248, 244);--active-text-color:rgb(122, 173, 228);--blue-bg:#092a44;--nav-gradient:linear-gradient(
+    to bottom,
+    rgba(75, 75, 75, 0.8) 0%,
+    rgb(36, 36, 36) 50%,
+    #000000 50%,
+    #000000 100%
+  );--nav-gradient-active:linear-gradient(
+    to bottom,
+    rgba(135, 136, 136, 0.9) 0%,
+    rgba(166, 169, 169, 0.2) 50%,
+    #000000 50%,
+    #000000 100%
+  );--ig-color:radial-gradient(
+    circle at 30% 107%,
+    #fdf497 0%,
+    #fdf497 5%,
+    #fd5949 45%,
+    #d6249f 60%,
+    #285aeb 90%
+  );--fb-color:#3b5998;--twt-color:#1da1f2;--pint-color:#e60023;--yt-color:#ff0000;--nav-animation-speed:0.5s}*{margin:0;padding:0;box-sizing:border-box}html{font-family:Arial,Helvetica,sans-serif;color:var(--text-color);scroll-behavior:smooth}a{text-decoration:none;color:#fff}ul{list-style:none}h1{font-size:2.7vw}.flex-center{display:flex;justify-content:center;align-items:center}.active{background:var(--nav-gradient-active)}.active-text{opacity:.7;color:var(--active-text-color)}main{font-family:Montserrat,sans-serif}.line{width:90%;padding:.02rem 1rem;margin-top:1rem;background:var(--text-color)}.submit-btn{background:#131313;width:10rem;height:6rem;font-size:1rem;color:var(--text-color);cursor:pointer;margin-top:1.5rem;border:none;border-radius:5px}.submit-btn:hover{font-size:larger;width:11rem}.donate-btn{display:flex;justify-content:center;align-items:center;font-size:1.9vw;min-height:2.5rem;height:8vh;min-width:8rem;width:12vw;background:#f8f8f4;color:var(--dark-text-color);border-radius:4px}.donate-btn:hover{cursor:pointer;background:#cdcdcd;border:2px solid var(--active-text-color);font-size:2.1vw}.center-btn{align-self:center}.form{display:flex;flex-direction:column;justify-content:space-evenly;align-items:center;height:100%;width:35%}.form .input{background:var(--bg-color-white);width:100%;min-width:22rem;height:35%;min-height:2rem;margin:.5rem;padding:.2rem 1rem;border:1px solid #000}@media screen and (max-width:800px){.donate-btn{font-size:2.5vw}}@media screen and (max-width:670px){.donate-btn{font-size:3vw}}@media screen and (max-width:475px){.line{margin-left:0;align-self:center}}
