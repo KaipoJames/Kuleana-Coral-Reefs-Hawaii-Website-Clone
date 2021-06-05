@@ -60,4 +60,4 @@ If it is chosen to be the final navigation style, it can easy be applied to the 
 
 ## Special Thanks
 
-- A special Thanks to my professor for his guidance helping me get through this project. I enjoyed improving my skills in web design.
+- A special Thanks to my mentor for his guidance helping me get through this project. I enjoyed improving my skills in web design.
